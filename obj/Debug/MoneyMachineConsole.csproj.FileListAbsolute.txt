@@ -1,0 +1,15 @@
+C:\Users\mifus_000\Desktop\Poloniex\MoneyMachine\MoneyMachineConsole\obj\Debug\MoneyMachineConsole.csprojResolveAssemblyReference.cache
+C:\Users\mifus_000\Desktop\Poloniex\MoneyMachine\MoneyMachineConsole\bin\Debug\MoneyMachineConsole.exe.config
+C:\Users\mifus_000\Desktop\Poloniex\MoneyMachine\MoneyMachineConsole\bin\Debug\MoneyMachineConsole.exe
+C:\Users\mifus_000\Desktop\Poloniex\MoneyMachine\MoneyMachineConsole\bin\Debug\MoneyMachineConsole.pdb
+C:\Users\mifus_000\Desktop\Poloniex\MoneyMachine\MoneyMachineConsole\obj\Debug\MoneyMachineConsole.exe
+C:\Users\mifus_000\Desktop\Poloniex\MoneyMachine\MoneyMachineConsole\obj\Debug\MoneyMachineConsole.pdb
+C:\programas\MoneyMachineConsole-master\bin\Debug\MoneyMachineConsole.exe.config
+C:\programas\MoneyMachineConsole-master\bin\Debug\MoneyMachineConsole.exe
+C:\programas\MoneyMachineConsole-master\bin\Debug\MoneyMachineConsole.pdb
+C:\programas\MoneyMachineConsole-master\bin\Debug\MySql.Data.dll
+C:\programas\MoneyMachineConsole-master\bin\Debug\TA-Lib-Core.dll
+C:\programas\MoneyMachineConsole-master\obj\Debug\MoneyMachineConsole.csproj.CoreCompileInputs.cache
+C:\programas\MoneyMachineConsole-master\obj\Debug\MoneyMachineConsole.exe
+C:\programas\MoneyMachineConsole-master\obj\Debug\MoneyMachineConsole.pdb
+C:\programas\MoneyMachineConsole-master\obj\Debug\MoneyMachineConsole.csprojResolveAssemblyReference.cache

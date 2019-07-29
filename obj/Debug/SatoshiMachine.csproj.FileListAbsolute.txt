@@ -1,0 +1,11 @@
+C:\programas\SatoshiMachine\obj\Debug\SatoshiMachine.csproj.CoreCompileInputs.cache
+C:\programas\SatoshiMachine\bin\Debug\SatoshiMachine.exe.config
+C:\programas\SatoshiMachine\bin\Debug\SatoshiMachine.exe
+C:\programas\SatoshiMachine\bin\Debug\SatoshiMachine.pdb
+C:\programas\SatoshiMachine\bin\Debug\MySql.Data.dll
+C:\programas\SatoshiMachine\bin\Debug\TA-Lib-Core.dll
+C:\programas\SatoshiMachine\obj\Debug\SatoshiMachine.exe
+C:\programas\SatoshiMachine\obj\Debug\SatoshiMachine.pdb
+C:\programas\SatoshiMachine\bin\Debug\jose-jwt.dll
+C:\programas\SatoshiMachine\bin\Debug\RestSharp.dll
+C:\programas\SatoshiMachine\bin\Debug\RestSharp.xml

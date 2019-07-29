@@ -1,0 +1,8 @@
+C:\programas\SatoshiMachine\ArbitrageNacional\bin\Debug\ArbitrageNacionalV2.exe.config
+C:\programas\SatoshiMachine\ArbitrageNacional\bin\Debug\ArbitrageNacionalV2.exe
+C:\programas\SatoshiMachine\ArbitrageNacional\bin\Debug\ArbitrageNacionalV2.pdb
+C:\programas\SatoshiMachine\ArbitrageNacional\bin\Debug\RestSharp.dll
+C:\programas\SatoshiMachine\ArbitrageNacional\bin\Debug\RestSharp.xml
+C:\programas\SatoshiMachine\ArbitrageNacional\obj\Debug\ArbitrageNacionalV2.csproj.CoreCompileInputs.cache
+C:\programas\SatoshiMachine\ArbitrageNacional\obj\Debug\ArbitrageNacionalV2.exe
+C:\programas\SatoshiMachine\ArbitrageNacional\obj\Debug\ArbitrageNacionalV2.pdb
